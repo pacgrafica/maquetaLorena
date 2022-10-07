@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.verde {
+    height: 10rem;
+    background-color: greenyellow;
+}
+
+.amarillo {
+    height: 10rem;
+    background-color: yellow;
+}
+
+.rojo {
+    height: 10rem;
+    background-color: red;
+}
+
+.morado {
+    height: 5rem;
+    background-color: purple;
+}
+
+.amarillo2 {
+    height: 20rem;
+    background-color: yellow;
+}
+
+.rojo2 {
+    height: 20rem;
+    background-color: red;
+}
